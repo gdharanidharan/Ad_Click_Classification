@@ -3,6 +3,6 @@ Predicting whether a mobile ad will be click from data given by Avazu using Clic
 
 # Colab Notebook Links below for more information
 
-1. [EDA](https://colab.research.google.com/drive/1Z3j3aInQVvLMIleZJFfx7RTnG1sMol5I?usp=sharing)
-2. [Data Processing](https://colab.research.google.com/drive/1YAX9o52DRR_JCxiLq2mUL6BCFjCEuEmK?usp=sharing)
-3. [Modelling](https://colab.research.google.com/drive/17YthRPzkyxYTg9tY13ub3pwz0y-mZUtv?usp=sharing)
+1. [EDA](https://github.com/gdharanidharan/Ad_Click_Classification/blob/main/1_EDA_FeatureGeneration.ipynb)
+2. [Data Processing](https://github.com/gdharanidharan/Ad_Click_Classification/blob/main/2_Statistical_Tests_and_Feature_Engineering.ipynb)
+3. [Modelling](https://github.com/gdharanidharan/Ad_Click_Classification/blob/main/3_Modeling_and_Evaluation.ipynb)
